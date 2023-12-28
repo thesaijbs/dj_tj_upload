@@ -4,7 +4,7 @@ Basic file uploading project in django 2.1.5 . Here i have implemented a Simple 
 <h2>Project snapshot</h2>
 <h3>Home page</h3>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/19981097/52495242-49b61980-2bfa-11e9-88a1-c44d632cc0c9.png" width="100%"</img> 
+    <img src="https://github.com/thesaijbs/dj_tj_upload/blob/main/UI%20of%20file%20upload.png" width="100%"</img> 
 </div>
 
 <h3>Book Add Page</h3>
