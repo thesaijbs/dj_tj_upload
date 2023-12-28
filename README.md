@@ -1,4 +1,5 @@
 # Django_file_upload
+# File_upload_Django_project
 Basic file uploading project in django 2.1.5 . Here i have implemented a Simple Book Uploading application where you can upload book name, author, category, Cover picture and pdf. And after deleting it will delete actual files from storage
 
 <h2>Project snapshot</h2>
