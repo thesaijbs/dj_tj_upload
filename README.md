@@ -14,8 +14,8 @@ Basic file uploading project in django 2.1.5 . Here i have implemented a Simple 
 
 <h2>Author</h2>
 <blockquote>
-  Mahmudul alam<br>
-  Email: expelmahmud@gmail.com
+  Thesai jebas<br>
+  Email: thesaijebas44@gmail.com
 </blockquote>
 
 <div align="center">
